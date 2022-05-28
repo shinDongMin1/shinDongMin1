@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 
 # Contacts
 [![Tech Blog](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://shinDongMin1.github.io)](https://shinDongMin1.github.io)
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=github&logoColor=white&link=mailto:201730539@gmail.com)](mailto:201730539@gmail.com)
-[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=github&logoColor=white&link=mailto:sddgu9@naver.com)](mailto:sddgu9@naver.com)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:201730539@gmail.com)](mailto:201730539@gmail.com)
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:sddgu9@naver.com)](mailto:sddgu9@naver.com)
