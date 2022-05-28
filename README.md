@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-# Contacts
+# Contacts 📬
 [![Tech Blog](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://shinDongMin1.github.io)](https://shinDongMin1.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:201730539@gmail.com)](mailto:201730539@gmail.com)
 [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:sddgu9@naver.com)](mailto:sddgu9@naver.com)
